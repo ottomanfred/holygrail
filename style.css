@@ -86,3 +86,6 @@ aside{
 .ad{
     font-size: xx-large
 }
+.content_body{
+    text-transform: lowercase;
+}
